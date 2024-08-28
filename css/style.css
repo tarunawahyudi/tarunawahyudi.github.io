@@ -7,5 +7,5 @@
 }
 
 .greeting span {
-  color: #0ba376;
+  color: var(--primary-color);
 }
