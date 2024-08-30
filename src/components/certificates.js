@@ -1,3 +1,5 @@
+import { addComponent } from '../utils/ComponentManager';
+
 export function createCertificateHtml(certificate) {
     return `
         <div class="col-xs-12 col-sm-6">
@@ -10,7 +12,7 @@ export function createCertificateHtml(certificate) {
                         <h4>${certificate.title}</h4>
                     </div>
                     <div class="certi-id">
-                        <span>${certificate.id}</span>
+                        <span>${certificate.certificate_id}</span>
                     </div>
                     ${certificate.date ? `<div class="certi-date"><span>${certificate.date}</span></div>` : ''}
                     <div class="certi-link">
@@ -28,5 +30,6 @@ export function createCertificateHtml(certificate) {
 export function addCertificate(certificate) {
     const certificateHtml = createCertificateHtml(certificate);
     const container = document.getElementById('certificates-container');
-    container.insertAdjacentHTML('beforeend', certificateHtml);
+
+    addComponent(container, certificateHtml, certificate);
 }

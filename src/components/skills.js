@@ -1,3 +1,5 @@
+import {addComponent} from "../utils/ComponentManager";
+
 export function createSkillsHtml({ skill, percentage }, index) {
     return `
         <div class="skill clearfix">
@@ -15,14 +17,13 @@ export function createKnowledgeHtml({ skill }) {
 }
 
 export function addSkills(skillData, index, selector) {
-    const skillHtml = createSkillsHtml(skillData, index);
-    const skillContainer = document.getElementById(selector);
-    if (skillContainer) skillContainer.insertAdjacentHTML('beforeend', skillHtml);
-    else console.error('Skill container not found');
+    const html = createSkillsHtml(skillData, index);
+    const container = document.getElementById(selector);
+    addComponent(container, html, skillData);
 }
 
 export function addKnowledgeSkills(skillData) {
-    const knowledgeHtml = createKnowledgeHtml(skillData);
+    const html = createKnowledgeHtml(skillData);
     const container = document.querySelector('.knowledges');
-    container.insertAdjacentHTML('beforeend', knowledgeHtml);
+    addComponent(container, html, skillData);
 }
