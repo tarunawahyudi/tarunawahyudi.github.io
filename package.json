@@ -1,0 +1,14 @@
+{
+  "name": "tarunawahyudi.github.io",
+  "version": "1.0.0",
+  "description": "Portofolio Taruna Wahyudi",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Taruna Wahyudi",
+  "license": "ISC",
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}
