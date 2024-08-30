@@ -10,8 +10,8 @@ export function isComponentAlreadyAdded(identifier) {
   return addedComponents.has(identifier);
 }
 
-export function markComponentAsAdded(component) {
-  addedComponents.add(component);
+export function markComponentAsAdded(identifier) {
+  addedComponents.add(identifier);
 }
 
 export function addComponent(container, html, component) {
