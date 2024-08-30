@@ -35,6 +35,39 @@
 
   - skill: Numerical Computation
     percentage: 85
-  
+
   - skill: Analysis and Design of Information Systems
     percentage: 90
+
+- technical:
+
+    - skill: GIT
+      percentage: 95
+
+    - skill: Flutter
+      percentage: 85
+
+    - skill: HapiJS
+      percentage: 80
+
+    - skill: Laravel
+      percentage: 90
+
+    - skill: React JS
+      percentage: 80
+
+    - skill: MySQL
+      percentage: 90
+
+    - skill: PostgresSQL
+      percentage: 90
+
+    - skill: MongoDB
+      percentage: 80
+
+- knowledge:
+  - skill: AdobeXD
+  - skill: figmaUI
+  - skill: Problem Solving
+  - skill: Data Mining
+  - skill: E-Commerce

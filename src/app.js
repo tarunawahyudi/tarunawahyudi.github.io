@@ -1,12 +1,9 @@
-import { loadYAML } from './utils/yamlLoader';
-import { addCertificate } from './components/certificates';
+import {routes} from "./routes";
 
-document.addEventListener('DOMContentLoaded', () => {
-    loadYAML('data/certificates.yaml')
-        .then(certificates => {
-            certificates.forEach(certificate => {
-                addCertificate(certificate);
-            });
-        })
-        .catch(error => console.error('Error processing certificates:', error));
-});
+document.addEventListener('DOMContentLoaded', handleHashChange);
+window.addEventListener('hashchange', handleHashChange);
+
+async function handleHashChange() {
+    const loader = routes[window.location.hash];
+    if (loader) await loader();
+}

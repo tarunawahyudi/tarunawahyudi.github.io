@@ -1,0 +1,42 @@
+---
+- formal:
+  - year: 2016
+    school: SMK Karya Guna 2 Bekasi
+    expertise: Teknik Komputer dan Jaringan
+    description: I graduated from a vocational school in computer and network engineering and has a Cisco Certified Network Associate
+
+  - year: 2021
+    school: STMIK Banisaleh
+    expertise: Teknik Informatika
+    description: Bachelor degree program informatics engineering. GPA 3.65 (Cumlaude Predicate)
+
+- non_formal:
+    - year: 2015
+      institute: Dinas Pendidikan Kota Bekasi
+      expertise: Network Troubleshooting
+      description: organized by SMK Karya Guna 2 Bekasi
+
+    - year: 2016
+      institute: Cisco Academy
+      expertise: Cisco Certifed Network Associate
+      description: organized by STMIK banisaleh
+
+    - year: 2021
+      institute: Dicoding Academy
+      expertise: Frontend Developer Expert
+      certificate: https://www.dicoding.com/certificates/EYX4R5J76XDL
+
+    - year: 2021
+      institute: Dicoding Academy
+      expertise: Fundamental Frontend Development
+      certificate: https://www.dicoding.com/certificates/EYX4R0EL6XDL
+
+    - year: 2021
+      institute: Dicoding Academy
+      expertise: Architecting on AWS
+      certificate: https://www.dicoding.com/certificates/53XEE54K9XRN
+
+    - year: 2021
+      institute: Dicoding Academy
+      expertise: Practical DevOps with IBM Cloud
+      certificate: https://www.dicoding.com/certificates/2VX3NM0NVXYQ
