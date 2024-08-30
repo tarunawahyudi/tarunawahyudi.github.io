@@ -1,0 +1,40 @@
+---
+- programming:
+
+  - skill: Programming
+    percentage: 10
+
+  - skill: Javascript
+    percentage: 95
+
+  - skill: Kotlin
+    percentage: 65
+
+  - skill: PHP
+    percentage: 80
+
+  - skill: Python
+    percentage: 80
+
+  - skill: Java
+    percentage: 85
+
+  - skill: Dart
+    percentage: 70
+
+  - skill: Golang
+    percentage: 70
+
+  - skill: Swift
+    percentage: 70
+
+- fundamental:
+
+  - skill: Algorithm and Data Structure
+    percentage: 95
+
+  - skill: Numerical Computation
+    percentage: 85
+  
+  - skill: Analysis and Design of Information Systems
+    percentage: 90
