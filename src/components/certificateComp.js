@@ -1,4 +1,4 @@
-import { addComponent } from '../utils/ComponentManager';
+import { addComponent } from '../utils/componentManager';
 
 export function createCertificateHtml(certificate) {
     return `

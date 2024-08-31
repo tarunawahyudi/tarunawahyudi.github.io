@@ -1,5 +1,5 @@
 import {loadYAML} from "../utils/yamlLoader";
-import {addCertificate} from "../components/certificates";
+import {addCertificate} from "../components/certificateComp";
 
 export async function load() {
   try {
@@ -8,6 +8,6 @@ export async function load() {
       addCertificate(certificate);
     });
   } catch (error) {
-    console.error('Error processing certificates:', error);
+    console.error('Error processing data:', error);
   }
 }

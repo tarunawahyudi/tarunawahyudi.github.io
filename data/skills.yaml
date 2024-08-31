@@ -66,8 +66,9 @@
       percentage: 80
 
 - knowledge:
-  - skill: AdobeXD
-  - skill: figmaUI
-  - skill: Problem Solving
-  - skill: Data Mining
-  - skill: E-Commerce
+  - AdobeXD
+  - figmaUI
+  - Problem Solving
+  - Data Mining
+  - E-Commerce
+  - Linux

@@ -1,4 +1,4 @@
-import {addComponent} from "../utils/ComponentManager";
+import {addComponent} from "../utils/componentManager";
 
 export function createSkillsHtml({ skill, percentage }, index) {
     return `
@@ -12,7 +12,7 @@ export function createSkillsHtml({ skill, percentage }, index) {
     `;
 }
 
-export function createKnowledgeHtml({ skill }) {
+export function createKnowledgeHtml(skill) {
     return `<li>${skill}</li>`
 }
 

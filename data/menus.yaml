@@ -1,0 +1,28 @@
+- title: Home
+  link: home
+  icon: lnr-home
+
+- title: About Me
+  link: about-me
+  icon: lnr-user
+
+- title: Resume
+  link: resume
+  icon: lnr-graduation-hat
+
+- title: Certificates
+  link: certificates
+  icon: lnr-star
+
+- title: Portfolio
+  link: portfolio
+  icon: lnr-briefcase
+
+- title: Blog
+  link: blog
+  icon: lnr-book
+
+- title: Contact
+  link: contact
+  icon: lnr-lnr-envelope
+
