@@ -9,7 +9,7 @@ export async function load() {
   try {
     const skillsData = await loadYAML('data/skills.yaml');
     const education = await loadYAML('data/education.yaml');
-    const awards = await loadYAML('data/awards.yaml');
+    // const awards = await loadYAML('data/awards.yaml');
     const experiences = await loadYAML('data/experiences.yaml');
 
     const programming = skillsData.find(item => item.programming)?.programming;
@@ -51,15 +51,15 @@ export async function load() {
       })
     }
 
-    if (nonFormal) {
-      nonFormal.forEach(item => {
-        addSection(item, 'non-formal-education');
-      });
-    }
+    // if (nonFormal) {
+    //   nonFormal.forEach(item => {
+    //     addSection(item, 'non-formal-education');
+    //   });
+    // }
 
-    awards.forEach(item => {
-      addAwardSection(item, 'awards');
-    });
+    // awards.forEach(item => {
+    //   addAwardSection(item, 'awards');
+    // });
 
     experiences.forEach(item => {
       addExperienceSection(item, 'experience');

@@ -11,7 +11,6 @@ export async function load() {
       addSection(category, 'portfolio-category');
     });
 
-    console.log(portfolios);
     portfolios.forEach(item => {
       addSectionPortfolio(item, 'portfolio');
     });

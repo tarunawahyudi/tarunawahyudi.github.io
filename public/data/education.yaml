@@ -1,14 +1,14 @@
 ---
 - formal:
   - year: 2016
-    school: SMK Karya Guna 2 Bekasi
-    expertise: Teknik Komputer dan Jaringan
-    description: I graduated from a vocational school in computer and network engineering and has a Cisco Certified Network Associate
+    school: Vocational High School - SMK Karya Guna 2 Bekasi
+    expertise: Computer and Network Engineering
+    description: Graduated with foundational knowledge in hardware, networking, and system administration, including Cisco Certified Network Associate (CCNA), providing a strong technical base for further studies in software engineering.
 
   - year: 2021
-    school: STMIK Banisaleh
-    expertise: Teknik Informatika
-    description: Bachelor degree program informatics engineering. GPA 3.65 (Cumlaude Predicate)
+    school: Bachelor’s Degree | Banisaleh University
+    expertise: Informatics Engineering
+    description: Specialized in software development, data structures, algorithms, and systems design, with a focus on practical applications and innovative solutions in technology. GPA 3.65 (Cumlaude Predicate)
 
 - non_formal:
   - year: 2015

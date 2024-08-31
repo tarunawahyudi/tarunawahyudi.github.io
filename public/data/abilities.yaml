@@ -1,15 +1,25 @@
-- title: Frontend Development Expert
+# get icon from this https://linearicons.com/free
+- title: Backend
+  icon: lnr-database
+  description: Expert in building scalable, secure, and high-performance backend systems using modern technologies and frameworks, ensuring robust architecture and seamless integration.
+
+- title: Frontend
   icon: lnr-laptop-phone
-  description: Passion for responsive website and a film believer in the mobile-first approach. Dicoding certified Implemented new responsive website approach which increased mobile traffic by 20%</p>
+  description: Skilled in creating responsive and user-friendly interfaces with HTML, CSS, JavaScript, and various front-end libraries to deliver engaging user experiences.
 
-- title: Multi-Platform App Development
+- title: Multi-Platform
   icon: lnr-smartphone
-  description: Created application for IOS and Android. Developed mobile application in Flutter. Analyzed user requirements, and translated client needs into application design. Providing continued maintenance and development of bug fixes for existing mobile applications.
+  description: Experienced in building cross-platform mobile applications, particularly using frameworks like Flutter, ensuring smooth functionality and great user experiences.
 
-- title: Backend Developer Expert
-  icon: lnr-cloud
-  description: Develop automated software which manages infrastructure without human intervention on top of Kubernetes. Responsible for defining, developing, and evolving software in a fast paced and agile development environment.
 
-- title: Wordpress Development
+- title: Wordpress
   icon: lnr-magic-wand
-  description: I am a proficient and creative WordPress developer with a strong history in website management and development. Experienced in SEO and PPC campaign creation. Expert in all aspects of WordPress website creation, including design, plug-ins, and implementation. Skilled in creating engaging and interactive websites.
+  description: Specialized in creating custom WordPress themes and plugins, with a focus on optimizing performance, user experience, and SEO to enhance website visibility and engagement.
+
+- title: DevOps
+  icon: lnr-rocket
+  description: Proficient in automating deployment pipelines, managing cloud infrastructure, and implementing CI/CD practices to ensure rapid delivery and high availability of software systems.
+
+- title: Quality Assurance (QA)
+  icon: lnr-bug
+  description: Proficient in developing and executing test plans, identifying bugs, and ensuring software quality through automated and manual testing to deliver reliable and high-performing applications.

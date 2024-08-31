@@ -1,17 +1,10 @@
-/*
-* Template Name: BreezyCV - Resume / CV / vCard / Portfolio Template
-* Author: LMPixels
-* Author URL: http://themeforest.net/user/lmpixels
-* Version: 1.5.0
-*/
-
 (function($) {
 "use strict";
     // Portfolio subpage filters
     function portfolio_init() {
         var portfolio_grid = $('.portfolio-grid'),
             portfolio_filter = $('.portfolio-filters');
-            
+
         if (portfolio_grid) {
 
             portfolio_grid.shuffle({

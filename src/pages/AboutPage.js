@@ -14,7 +14,6 @@ export async function load() {
     abilities.forEach(item => {
       addSectionAbility(item, 'ability');
     });
-
   } catch (error) {
     console.error('Error processing data:', error);
   }

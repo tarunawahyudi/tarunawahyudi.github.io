@@ -1,74 +1,103 @@
 ---
 - programming:
 
-  - skill: Programming
-    percentage: 10
-
   - skill: Javascript
-    percentage: 95
+    percentage: 100
 
   - skill: Kotlin
-    percentage: 65
+    percentage: 100
 
   - skill: PHP
-    percentage: 80
+    percentage: 100
 
   - skill: Python
-    percentage: 80
+    percentage: 100
 
   - skill: Java
-    percentage: 85
+    percentage: 100
 
   - skill: Dart
-    percentage: 70
+    percentage: 100
 
   - skill: Golang
-    percentage: 70
+    percentage: 100
 
-  - skill: Swift
-    percentage: 70
+  - skill: Typescript
+    percentage: 100
+
+  - skill: C#
+    percentage: 100
 
 - fundamental:
 
-  - skill: Algorithm and Data Structure
-    percentage: 95
+  - skill: Data Structures and Algorithms
+    percentage: 100
 
-  - skill: Numerical Computation
-    percentage: 85
+  - skill: Software Design Principles
+    percentage: 100
 
-  - skill: Analysis and Design of Information Systems
-    percentage: 90
+  - skill: Version Control
+    percentage: 100
+
+  - skill: Database Management
+    percentage: 100
+
+  - skill: Debugging and Testing
+    percentage: 100
+
+  - skill: APIs and Web Services
+    percentage: 100
+
+  - skill: Software Development Life Cycle (SDLC)
+    percentage: 100
+
+  - skill: Problem-Solving
+    percentage: 100
 
 - technical:
 
-    - skill: GIT
-      percentage: 95
+    - skill: JavaScript (ES6+)
+      percentage: 100
 
-    - skill: Flutter
-      percentage: 85
+    - skill: Spring Boot
+      percentage: 100
 
-    - skill: HapiJS
-      percentage: 80
-
-    - skill: Laravel
-      percentage: 90
+    - skill: NodeJS
+      percentage: 100
 
     - skill: React JS
-      percentage: 80
+      percentage: 100
 
-    - skill: MySQL
-      percentage: 90
+    - skill: SQL
+      percentage: 100
 
-    - skill: PostgresSQL
-      percentage: 90
+    - skill: Docker
+      percentage: 100
+
+    - skill: Kubernetes
+      percentage: 100
+
+    - skill: Laravel
+      percentage: 100
 
     - skill: MongoDB
-      percentage: 80
+      percentage: 100
+
+    - skill: Kafka
+      percentage: 100
 
 - knowledge:
-  - AdobeXD
-  - figmaUI
-  - Problem Solving
-  - Data Mining
-  - E-Commerce
-  - Linux
+  - Microservices
+  - Clean Architecture
+  - Test-Driven Development (TDD)
+  - Agile (Jira)
+  - CI/CD
+  - Automation Testing
+  - Cyber Security
+  - Blockchain
+  - Software Design Principle
+  - Design Pattern
+  - Backpressure
+  - Race Condition
+  - HTTP
+  - NoSQL

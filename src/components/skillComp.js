@@ -6,7 +6,7 @@ export function createSkillsHtml({ skill, percentage }, index) {
             <h4>${skill}</h4>
             <div class="skill-value">${percentage}%</div>
         </div>
-        <div class="skill-container skill-${index}">
+        <div class="skill-container skill-7">
             <div class="skill-percentage"></div>
         </div>
     `;

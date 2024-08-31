@@ -1,26 +1,104 @@
 ---
 - year: 2016
-  company: Aino Indonesia
+  company: PT. AINO INDONESIA
   position: Project Implementation Service
   type: Full-time
   location: On-site
-  start_date: Mei 2016
-  end_date: Mei 2017
+  start_date: 2016
+  end_date: 2017
   job_description:
     - Installation Payment Device
     - Maintenance
     - Repair and Reporting
     - Network Configuration
 
-- year: 2022
-  company: Aino Indonesia
-  position: Project Implementation Service
+- year: 2017
+  company: Cyberlinks Network
+  position: Web Developer
   type: Full-time
   location: On-site
-  start_date: Mei 2016
-  end_date: Mei 2017
+  start_date: 2017
+  end_date: 2018
   job_description:
-    - Installation Payment Device
-    - Maintenance
-    - Repair and Reporting
-    - Network Configuration
+    - Website Development
+    - Feature Integration
+    - Performance Optimization
+    - Issue Troubleshooting
+    - Content Management
+    - SEO Implementation
+
+- year: 2019
+  company: Dedicated-IT
+  position: Web Developer
+  type: Full-time
+  location: Remote
+  start_date: 2019
+  end_date: 2022
+  job_description:
+    - Website Development
+    - Feature Integration
+    - Performance Optimization
+    - Issue Troubleshooting
+    - Content Management
+    - SEO Implementation
+    - UI/UX Design
+    - Cross-Browser Testing
+
+- year: 2022
+  company: Martha Tilaar Group
+  position: IT Supervisor
+  type: Full-time
+  location: On-site
+  start_date: 2022
+  end_date: 2023
+  job_description:
+    - Microservices Development
+    - API Design and Integration
+    - Frontend and Backend Development
+    - Service Orchestration
+    - Database Design and Management
+    - Performance Tuning
+    - Scalability Implementation
+    - Continuous Integration/Deployment (CI/CD)
+    - Cross-Functional Collaboration
+
+- year: 2023
+  company: PT. Code Development Indonesia
+  position: Fullstack Developer
+  type: Full-time
+  location: On-site
+  start_date: 2023
+  end_date: 2023
+  job_description:
+    - System Development
+    - Frontend and Backend Integration
+    - Database Management
+    - API Development
+    - User Interface Design
+    - Application Maintenance
+    - Performance Optimization
+    - Security Implementation
+    - Data Reporting
+    - Regulatory Compliance
+    - Cross-Department Collaboration
+
+- year: 2024
+  company: Asetku
+  position: Backend Developer
+  type: Full-time
+  location: On-site
+  start_date: 2024
+  job_description:
+    - API Development
+    - Database Design and Management
+    - Microservices Implementation
+    - Payment Gateway Integration
+    - Transaction Processing
+    - Data Security and Encryption
+    - Scalability Solutions
+    - System Monitoring and Logging
+    - Compliance with Financial Regulations
+    - Error Handling and Debugging
+    - Collaborative Development
+
+
