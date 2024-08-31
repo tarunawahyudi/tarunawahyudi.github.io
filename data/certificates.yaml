@@ -1,0 +1,201 @@
+---
+- logoSrc: img/certificates/sap.jpg
+  title: SAP Overview
+  credential: ''
+  id: SAP University Partnership Program
+  imgSrc: img/certificates/sap-cert.jpg
+  linkTitle: See Certificate
+  company: ''
+  date: ''
+
+- logoSrc: img/certificates/oracle.jpg
+  title: Java Fundamentals
+  id: Oracle Academy
+  imgSrc: img/certificates/java-fundamentals.jpg
+  linkTitle: See Certificate
+  company: ''
+  date: Issued Aug 2021
+
+- logoSrc: img/certificates/oracle.jpg
+  title: Java Programming
+  credential: ''
+  id: Oracle Academy
+  imgSrc: img/certificates/java-programming.jpg
+  linkTitle: See Certificate
+  company: ''
+  date: Issued Sep 2021
+
+- logoSrc: img/certificates/oracle.jpg
+  title: Database Programming with SQL
+  credential: ''
+  id: Oracle Academy
+  imgSrc: img/certificates/database-with-sql.jpg
+  linkTitle: See Certificate
+  company: ''
+  date: Issued Aug 2021
+
+- logoSrc: img/certificates/dicoding.png
+  title: Data Visualization
+  credential: VJLX1NL8GP72
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/VJLX1NL8GP72
+  linkTitle: See Credentials
+  company: ''
+  date: Issued Sep 2020 - Expires Sep 2023
+
+- logoSrc: img/certificates/dicoding.png
+  title: Cognitive Application
+  credential: L4PQMMN3QZO1
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/L4PQMMN3QZO1
+  linkTitle: See Credentials
+  company: ''
+  date: Issued Oct 2020 - Expires Oct 2023
+
+- logoSrc: img/certificates/dicoding.png
+  title: Software Design Principle
+  credential: MEPJ5YOL6P3V
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/MEPJ5YOL6P3V
+  linkTitle: See Credentials
+  company: ''
+  date: Issued Jan 2021 - Expires Jan 2024
+
+- logoSrc: img/certificates/dicoding.png
+  title: Swift Programming
+  credential: GRX5GQ7GVX0M
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/GRX5GQ7GVX0M
+  linkTitle: See Credentials
+  company: ''
+  date: Issued Jan 2021 - Expires Jan 2024
+
+- logoSrc: img/certificates/dicoding.png
+  title: Fundamental Front-End Web Development
+  credential: EYX4R0EL6XDL
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/EYX4R0EL6XDL
+  linkTitle: See Credentials
+  company: ''
+  date: Issued Jan 2021 - Expires Jan 2024
+
+- logoSrc: img/certificates/dicoding.png
+  title: Front-End Web Developer Expert
+  credential: EYX4R5J76XDL
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/EYX4R5J76XDL
+  linkTitle: See Credentials
+  company: ''
+  date: Issued May 2021 - Expires May 2024
+
+- logoSrc: img/certificates/dicoding.png
+  title: Cloud Practitioner Essentials AWS
+  credential: RVZK40OMEPD5
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/RVZK40OMEPD5
+  linkTitle: See Credentials
+  company: ''
+  date: Issued Mar 2021 - Expires Mar 2024
+
+- logoSrc: img/certificates/dicoding.png
+  title: Cloud Practitioner Essentials AWS
+  credential: RVZK40OMEPD5
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/RVZK40OMEPD5
+  linkTitle: See Credentials
+  company: ''
+  date: Issued Mar 2021 - Expires Mar 2024
+
+- logoSrc: img/certificates/dicoding.png
+  title: Practical DevOps with IBM Cloud
+  credential: RVZK40OMEPD5
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/RVZK40OMEPD5
+  linkTitle: See Credentials
+  company: ''
+  date: Issued Mar 2021 - Expires Mar 2024
+
+- logoSrc: img/certificates/dicoding.png
+  title: Back-End Application
+  credential: JMZVM8MR3ZN9
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/JMZVM8MR3ZN9
+  linkTitle: See Credentials
+  company: ''
+  date: Issued Apr 2021 - Expires Apr 2024
+
+- logoSrc: img/certificates/dicoding.png
+  title: Javascript Programming
+  credential: JMZVM8MR3ZN9
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/JMZVM8MR3ZN9
+  linkTitle: See Credentials
+  company: ''
+  date: Issued Apr 2021 - Expires Apr 2024
+
+- logoSrc: img/certificates/dicoding.png
+  title: Dart Programming
+  credential: L4PQMLEG2ZO1
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/L4PQMLEG2ZO1
+  linkTitle: See Credentials
+  company: ''
+  date: Issued May 2021 - Expires May 2024
+
+- logoSrc: img/certificates/dicoding.png
+  title: Flutter Application
+  credential: MRZMG3L5KZYQ
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/MRZMG3L5KZYQ
+  linkTitle: See Credentials
+  company: ''
+  date: Issued May 2021 - Expires May 2024
+
+- logoSrc: img/certificates/dicoding.png
+  title: Architecting on AWS
+  credential: 53XEE54K9XRN
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/53XEE54K9XRN
+  linkTitle: See Credentials
+  company: ''
+  date: Issued May 2021 - Expires May 2024
+
+- logoSrc: img/certificates/phub.jpg
+  title: Python Programming
+  id: Dicoding
+  link: ''
+  linkTitle: ''
+  company: Programming Hub
+  date: Issued Aug 2020 - No Expiration Date
+
+- logoSrc: img/certificates/udemy.jpg
+  title: MERN Stack Master
+  credential: Credential ID UC-dafca560-5ef0-4909-a12b-225a5ed8f26
+  date: Issued Apr 2021 - No Expiration Date
+  link: https://www.udemy.com/certificate/UC-dafca560-5ef0-4909-a12b-225a5ed8f26f/
+  linkTitle: See Credentials
+  company: ''
+
+- logoSrc: img/certificates/udemy.jpg
+  title: Java Web Services
+  credential: Credential ID UC-abb0ac5d-b56e-4ade-9d6e-342ce396e97f
+  date: Issued Apr 2021 - No Expiration Date
+  link: https://www.udemy.com/certificate/UC-abb0ac5d-b56e-4ade-9d6e-342ce396e97f/
+  linkTitle: See Credentials
+  company: ''
+
+- logoSrc: img/certificates/cisco.jpg
+  title: Introduction to IoT
+  credential: Credential ID 9493f0bb-e56d-4f80-b57b-a279207dd8a4
+  date: Issued Oct 2020 - No Expiration Date
+  link: https://www.credly.com/badges/9493f0bb-e56d-4f80-b57b-a279207dd8a4
+  linkTitle: See Credentials
+  company: ''
+
+- logoSrc: img/certificates/google.jpg
+  title: The Fundamentals of Digital Marketing
+  credential: Credential ID 3JLXX4B6Q
+  date: Issued Apr 2021 - No Expiration Date
+  link: https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code
+  linkTitle: See Credentials
+  company: ''

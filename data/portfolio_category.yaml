@@ -1,0 +1,24 @@
+---
+- name: All
+  group: category_all
+
+- name: Website
+  group: category_detailed
+
+- name: Android
+  group: category_mockups
+
+- name: Multi-Platform
+  group: category_soundcloud
+
+- name: Wordpress
+  group: category_vimeo-videos
+
+- name: Rest API
+  group: category_youtube-videos
+
+- name: Machine Learning
+  group: category_youtube-videos
+
+- name: Others
+  group: category_youtube-videos

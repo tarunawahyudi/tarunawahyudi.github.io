@@ -1,0 +1,11 @@
+#submit-btn {
+  cursor: pointer;
+}
+
+.greeting {
+  margin-bottom: 1em;
+}
+
+.greeting span {
+  color: #00BCD4;
+}

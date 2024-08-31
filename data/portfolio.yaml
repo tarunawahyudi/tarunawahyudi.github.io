@@ -1,0 +1,12 @@
+- dataGroups:
+  - category_all
+  - category_soundcloud
+  figureClass: lbaudio # standard, lbvideo
+  imgSrc: img/portfolio/1.jpg
+  imgTitle: ''
+  imgAlt: SoundCloud Audio
+  linkUrl: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221650664&#038;color=%23ff5500&#038;auto_play=false&#038;hide_related=false&#038;show_comments=true&#038;show_user=true&#038;show_reposts=false&#038;show_teaser=true&#038;visual=true
+  linkTitle: SoundCloud Audio
+  title: SoundCloud Audio
+  label: SoundCloud
+
