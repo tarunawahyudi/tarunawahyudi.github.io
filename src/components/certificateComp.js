@@ -12,7 +12,7 @@ export function createCertificateHtml(certificate) {
                         <h4>${certificate.title}</h4>
                     </div>
                     <div class="certi-id">
-                        <span>${certificate.certificate_id}</span>
+                        <span>${certificate.credential ? certificate.credential : ''}</span>
                     </div>
                     ${certificate.date ? `<div class="certi-date"><span>${certificate.date}</span></div>` : ''}
                      <div class="certi-link">

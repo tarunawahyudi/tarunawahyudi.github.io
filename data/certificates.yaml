@@ -162,7 +162,6 @@
 
 - logoSrc: img/certificates/phub.jpg
   title: Python Programming
-  credential: '1598559442599'
   id: Dicoding
   link: ''
   linkTitle: ''
@@ -171,7 +170,7 @@
 
 - logoSrc: img/certificates/udemy.jpg
   title: MERN Stack Master
-  id: Credential ID UC-dafca560-5ef0-4909-a12b-225a5ed8f26
+  credential: Credential ID UC-dafca560-5ef0-4909-a12b-225a5ed8f26
   date: Issued Apr 2021 - No Expiration Date
   link: https://www.udemy.com/certificate/UC-dafca560-5ef0-4909-a12b-225a5ed8f26f/
   linkTitle: See Credentials
@@ -179,7 +178,7 @@
 
 - logoSrc: img/certificates/udemy.jpg
   title: Java Web Services
-  id: Credential ID UC-abb0ac5d-b56e-4ade-9d6e-342ce396e97f
+  credential: Credential ID UC-abb0ac5d-b56e-4ade-9d6e-342ce396e97f
   date: Issued Apr 2021 - No Expiration Date
   link: https://www.udemy.com/certificate/UC-abb0ac5d-b56e-4ade-9d6e-342ce396e97f/
   linkTitle: See Credentials
@@ -187,7 +186,7 @@
 
 - logoSrc: img/certificates/cisco.jpg
   title: Introduction to IoT
-  id: Credential ID 9493f0bb-e56d-4f80-b57b-a279207dd8a4
+  credential: Credential ID 9493f0bb-e56d-4f80-b57b-a279207dd8a4
   date: Issued Oct 2020 - No Expiration Date
   link: https://www.credly.com/badges/9493f0bb-e56d-4f80-b57b-a279207dd8a4
   linkTitle: See Credentials
@@ -195,7 +194,7 @@
 
 - logoSrc: img/certificates/google.jpg
   title: The Fundamentals of Digital Marketing
-  id: Credential ID 3JLXX4B6Q
+  credential: Credential ID 3JLXX4B6Q
   date: Issued Apr 2021 - No Expiration Date
   link: https://learndigital.withgoogle.com/digitalgarage/validate-certificate-code
   linkTitle: See Credentials
