@@ -3,24 +3,24 @@
   title: SAP Overview
   credential: ''
   id: SAP University Partnership Program
-  link: img/certificates/sap-cert.jpg
+  imgSrc: img/certificates/sap-cert.jpg
   linkTitle: See Certificate
   company: ''
   date: ''
-  
+
 - logoSrc: img/certificates/oracle.jpg
   title: Java Fundamentals
   id: Oracle Academy
-  link: img/certificates/java-fundamentals.jpg
+  imgSrc: img/certificates/java-fundamentals.jpg
   linkTitle: See Certificate
   company: ''
   date: Issued Aug 2021
-  
+
 - logoSrc: img/certificates/oracle.jpg
   title: Java Programming
   credential: ''
   id: Oracle Academy
-  link: img/certificates/java-programming.jpg
+  imgSrc: img/certificates/java-programming.jpg
   linkTitle: See Certificate
   company: ''
   date: Issued Sep 2021
@@ -29,7 +29,7 @@
   title: Database Programming with SQL
   credential: ''
   id: Oracle Academy
-  link: img/certificates/database-with-sql.jpg
+  imgSrc: img/certificates/database-with-sql.jpg
   linkTitle: See Certificate
   company: ''
   date: Issued Aug 2021
@@ -192,7 +192,7 @@
   link: https://www.credly.com/badges/9493f0bb-e56d-4f80-b57b-a279207dd8a4
   linkTitle: See Credentials
   company: ''
-  
+
 - logoSrc: img/certificates/google.jpg
   title: The Fundamentals of Digital Marketing
   id: Credential ID 3JLXX4B6Q

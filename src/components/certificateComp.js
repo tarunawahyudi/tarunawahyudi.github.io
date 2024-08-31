@@ -15,8 +15,12 @@ export function createCertificateHtml(certificate) {
                         <span>${certificate.certificate_id}</span>
                     </div>
                     ${certificate.date ? `<div class="certi-date"><span>${certificate.date}</span></div>` : ''}
-                    <div class="certi-link">
-                        <span><a href="${certificate.link}" data-lightbox="image-1" data-title="${certificate.title}">${certificate.linkTitle}</a></span>
+                     <div class="certi-link">
+                        <span>
+                            ${certificate.imgSrc ? 
+                            `<a href="${certificate.imgSrc}" data-lightbox="image-1" data-title="${certificate.title}">${certificate.linkTitle}</a>` 
+                            : `<a href="${certificate.link}" target="_blank">${certificate.linkTitle}</a>`}
+                        </span>
                     </div>
                     <div class="certi-company">
                         <span>${certificate.company}</span>
