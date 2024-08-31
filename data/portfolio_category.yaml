@@ -3,22 +3,22 @@
   group: category_all
 
 - name: Website
-  group: category_detailed
+  group: website
 
 - name: Android
-  group: category_mockups
+  group: android
 
 - name: Multi-Platform
-  group: category_soundcloud
+  group: multiplatform
 
 - name: Wordpress
-  group: category_vimeo-videos
+  group: wordpress
 
 - name: Rest API
-  group: category_youtube-videos
+  group: rest_api
 
-- name: Machine Learning
-  group: category_youtube-videos
+- name: UI/UX
+  group: uiux
 
 - name: Others
-  group: category_youtube-videos
+  group: others

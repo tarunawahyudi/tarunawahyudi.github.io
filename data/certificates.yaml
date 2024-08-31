@@ -1,4 +1,40 @@
 ---
+- logoSrc: img/certificates/dicoding.png
+  title: Backend Developer Expert
+  credential: NVP7Q9KGRZR0
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/NVP7Q9KGRZR0
+  linkTitle: See Credentials
+  company: ''
+  date: Issued May 2024 - Expires May 2027
+
+- logoSrc: img/certificates/dicoding.png
+  title: Node JS Application Developer
+  credential: ERZRWQ60WXYV
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/ERZRWQ60WXYV
+  linkTitle: See Credentials
+  company: ''
+  date: Issued April 2024 - Expires April 2027
+
+- logoSrc: img/certificates/dicoding.png
+  title: Linux System Administrator
+  credential: 0LZ06OEM0Z65
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/0LZ06OEM0Z65
+  linkTitle: See Credentials
+  company: ''
+  date: Issued April 2024 - Expires April 2027
+
+- logoSrc: img/certificates/dicoding.png
+  title: Backend Fundamental
+  credential: GRX5OGY5YP0M
+  id: Dicoding
+  link: https://www.dicoding.com/certificates/GRX5OGY5YP0M
+  linkTitle: See Credentials
+  company: ''
+  date: Issued April 2024 - Expires April 2027
+
 - logoSrc: img/certificates/sap.jpg
   title: SAP Overview
   credential: ''
