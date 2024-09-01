@@ -8,14 +8,15 @@
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Taruna Wahyudi",
   "license": "ISC",
   "dependencies": {
     "js-yaml": "^4.1.0",
     "object-hash": "^3.0.0",
+    "shufflejs": "^6.1.1",
     "uuid": "^10.0.0"
   },
   "devDependencies": {

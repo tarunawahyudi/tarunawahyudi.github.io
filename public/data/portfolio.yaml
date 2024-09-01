@@ -1,12 +1,312 @@
 - dataGroups:
-  - category_all
-  - category_soundcloud
-  figureClass: lbaudio # standard, lbvideo
-  imgSrc: /img/portfolio/1.jpg
-  imgTitle: ''
-  imgAlt: SoundCloud Audio
-  linkUrl: https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/221650664&#038;color=%23ff5500&#038;auto_play=false&#038;hide_related=false&#038;show_comments=true&#038;show_user=true&#038;show_reposts=false&#038;show_teaser=true&#038;visual=true
-  linkTitle: SoundCloud Audio
-  title: SoundCloud Audio
-  label: SoundCloud
+    - category_all
+    - wordpress
+    - website
+  imgSrc: /img/portfolio/bmgcreative.png
+  imgTitle: BMG Creative
+  imgAlt: BMG Creative
+  title: BMG Creative
+  label: Wordpress
 
+- dataGroups:
+    - category_all
+    - website
+  imgSrc: /img/portfolio/simrk.png
+  imgTitle: SIMRK
+  imgAlt: SIMRK
+  title: Sistem Informasi Management Risiko - BPJS Ketenagakerjaan
+  label: Website
+
+- dataGroups:
+  - category_all
+  - website
+  - multiplatform
+  - wordpress
+  imgSrc: /img/portfolio/customcandle.png
+  imgTitle: Custom Candle
+  imgAlt: Custom Candle
+  title: Custom Candle
+  label: Multiplatform
+
+- dataGroups:
+    - category_all
+    - website
+  imgSrc: /img/portfolio/simp.png
+  imgTitle: SIMP
+  imgAlt: SIMP
+  title: Sistem Informasi Management Perpustakaan
+  label: Website
+
+- dataGroups:
+    - category_all
+    - uiux
+    - android
+    - multiplatform
+  imgSrc: /img/portfolio/myanime.png
+  imgTitle: My Anime
+  imgAlt: My Anime
+  title: My Anime
+  label: Android
+
+- dataGroups:
+    - category_all
+    - wordpress
+    - website
+  imgSrc: /img/portfolio/astv.png
+  imgTitle: As Seen On TV
+  imgAlt: As Seen On TV
+  title: As Seen On TV
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - website
+  imgSrc: /img/portfolio/siosp.png
+  imgTitle: SIOSP
+  imgAlt: SIOSP
+  title: Sistem Informasi Organisasi - PSKSPNI
+  label: Website
+
+- dataGroups:
+    - category_all
+    - uiux
+  imgSrc: /img/portfolio/tcode.png
+  imgTitle: tCode
+  imgAlt: tCode
+  title: tCode
+  label: UI/UX
+
+- dataGroups:
+    - category_all
+    - uiux
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/quality-traffic.png
+  imgTitle: Quality Traffic
+  imgAlt: Quality Traffic
+  title: Quality Traffic Management
+  label: Website
+
+- dataGroups:
+    - category_all
+    - uiux
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/waikato.png
+  imgTitle: Waikato Aviation
+  imgAlt: Waikato Aviation
+  title: Waikato Aviation
+  label: Website
+
+- dataGroups:
+    - category_all
+    - uiux
+    - website
+  imgSrc: /img/portfolio/labinformatika.png
+  imgTitle: Lab Informatika
+  imgAlt: Lab Informatika
+  title: Lab Informatika
+  label: UI/UX
+
+- dataGroups:
+    - category_all
+    - uiux
+    - website
+  imgSrc: /img/portfolio/simrs_dashboard.png
+  imgTitle: SIMRS Dashboard
+  imgAlt: SIMRS Dashboard
+  title: SIMRS Dashboard
+  label: Website
+
+- dataGroups:
+    - category_all
+    - uiux
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/takapuara.png
+  imgTitle: Takapuara
+  imgAlt: Takapuara
+  title: Takapuara
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - website
+  imgSrc: /img/portfolio/bookshelf_app.png
+  imgTitle: Bookshelf App
+  imgAlt: Bookshelf App
+  title: Bookshelf App
+  label: Website
+
+- dataGroups:
+    - category_all
+    - wordpress
+    - website
+  imgSrc: /img/portfolio/epilynx.png
+  imgTitle: Epilynx
+  imgAlt: Epilynx
+  title: Epilynx
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - website
+  imgSrc: /img/portfolio/pos.png
+  imgTitle: Point of Sale
+  imgAlt: Point of Sale
+  title: Point of Sale
+  label: Website
+
+- dataGroups:
+    - category_all
+    - website
+  imgSrc: /img/portfolio/wms.png
+  imgTitle: Warehouse Management System
+  imgAlt: Warehouse Management System
+  title: Warehouse Management System
+  label: Website
+
+- dataGroups:
+    - category_all
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/honesthustle-domain.png
+  imgTitle: Honest Hustle Domain
+  imgAlt: Honest Hustle Domain
+  title: Honest Hustle Domain
+  label: Website
+
+- dataGroups:
+    - category_all
+    - website
+  imgSrc: /img/portfolio/ecommerce.png
+  imgTitle: Ecommerce
+  imgAlt: Ecommerce
+  title: E-commerce - PT. DWI SASTRO PRATAMA
+  label: Website
+
+- dataGroups:
+    - category_all
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/directlabs.png
+  imgTitle: Directlabs
+  imgAlt: Directlabs
+  title: Directlabs
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/nationwide.png
+  imgTitle: Nationwide Maintenance
+  imgAlt: Nationwide Maintenance
+  title: Nationwide Maintenance
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - website
+  imgSrc: /img/portfolio/cookpedia.png
+  imgTitle: Cookpedia
+  imgAlt: Cookpedia
+  title: Cookpedia
+  label: Website
+
+- dataGroups:
+    - category_all
+    - website
+  imgSrc: /img/portfolio/ehospital.png
+  imgTitle: E-hospital
+  imgAlt: E-hospital
+  title: E-hospital
+  label: Website
+
+- dataGroups:
+    - category_all
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/taruna-form.png
+  imgTitle: Taruna Form
+  imgAlt: Taruna Form
+  title: Taruna Form - Wordpress Plugin
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/wol.png
+  imgTitle: Wellness of Life
+  imgAlt: Wellness of Life
+  title: Wellness of Life
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - website
+  imgSrc: /img/portfolio/xvote.jpeg
+  imgTitle: Xvote
+  imgAlt: Xvote
+  title: Xvote
+  label: Website
+
+- dataGroups:
+    - category_all
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/iloveflorida.png
+  imgTitle: I love florida living
+  imgAlt: I love florida living
+  title: I love florida living
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/debonairac.png
+  imgTitle: Debonairac
+  imgAlt: Debonairac
+  title: Debonairac
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/healthandwisdom.png
+  imgTitle: Health and Wisdom
+  imgAlt: Health and Wisdom
+  title: Health and Wisdom
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/tglb.png
+  imgTitle: The Grate Litter Box
+  imgAlt: The Grate Litter Box
+  title: The Grate Litter Box
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - rest_api
+  imgSrc: /img/portfolio/quickbot.png
+  imgTitle: Quickbot
+  imgAlt: Quickbot
+  title: Quickbot
+  label: REST Api
+
+- dataGroups:
+    - category_all
+    - android
+    - multiplatform
+  imgSrc: /img/portfolio/ml_wiki.png
+  imgTitle: Mobile Legends Wiki
+  imgAlt: Mobile Legends Wiki
+  title: Mobile Legends Wiki
+  label: Android
