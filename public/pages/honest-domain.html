@@ -1,0 +1,77 @@
+<div id="ajax-page" class="ajax-page-content">
+    <div class="ajax-page-wrapper">
+        <div class="ajax-page-nav">
+            <div class="nav-item ajax-page-prev-next">
+                <a class="ajax-page-load" href="pages/book-shelf.html"><i class="lnr lnr-chevron-left"></i></a>
+                <a class="ajax-page-load" href="pages/wms.html"><i class="lnr lnr-chevron-right"></i></a>
+            </div>
+            <div class="nav-item ajax-page-close-button">
+                <a id="ajax-page-close-button" href="#"><i class="lnr lnr-cross"></i></a>
+            </div>
+        </div>
+
+        <div class="ajax-page-title">
+            <h1>Honest Hustle Domain</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-8 col-md-8 portfolio-block">
+                <div class="owl-carousel portfolio-page-carousel">
+                    <div class="item">
+                        <img src="/img/portfolio/honesthustle-domain.png" alt="Honest Hustle Domain" />
+                    </div>
+                </div>
+
+                <script type="text/javascript">
+                  jQuery(document).ready(function($){
+                    $('.portfolio-page-carousel').imagesLoaded(function(){
+                      $('.portfolio-page-carousel').owlCarousel({
+                        smartSpeed:1200,
+                        items: 1,
+                        loop: true,
+                        dots: true,
+                        nav: true,
+                        navText: false,
+                        margin: 10,
+                        autoHeight:true
+                      });
+                    });
+                  });
+                </script>
+            </div>
+
+            <div class="col-sm-4 col-md-4 portfolio-block">
+                <!-- Project Description -->
+                <div class="project-description">
+                    <div class="block-title">
+                        <h3>Description</h3>
+                    </div>
+
+                    <p class="text-justify">
+                        I developed the Honest Hustle Domain website using WordPress to provide a seamless domain registration and management service. The project aims to offer users an easy and efficient way to search for, purchase, and manage domain names.<br><br>
+                        The website features a user-friendly interface that allows visitors to quickly find and secure their desired domain names. It includes functionalities for domain search, registration, and management, ensuring a smooth and straightforward user experience. Additionally, the site provides information about domain pricing, transfer options, and additional services to support users in making informed decisions.<br><br>
+                        By utilizing WordPress, the project leverages its flexibility and extensive plugin ecosystem to create a robust platform for domain services. The website is designed to be intuitive and responsive, making it accessible on various devices and providing a reliable solution for domain-related needs.
+                    </p>
+                    <!-- /Project Description -->
+
+                    <!-- Technology -->
+                    <div class="tags-block">
+                        <div class="block-title">
+                            <h3>Technology</h3>
+                        </div>
+                        <ul class="tags">
+                            <li><a>WordPress</a></li>
+                            <li><a>Elementor</a></li>
+                            <li><a>Woocommerce</a></li>
+                            <li><a>Yoast SEO</a></li>
+                            <li><a>Gravity Form</a></li>
+                            <li><a>Revolution Slider</a></li>
+                        </ul>
+                    </div>
+                    <!-- /Technology -->
+                </div>
+                <!-- Project Description -->
+            </div>
+        </div>
+    </div>
+</div>

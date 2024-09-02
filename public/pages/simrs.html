@@ -1,0 +1,76 @@
+<div id="ajax-page" class="ajax-page-content">
+    <div class="ajax-page-wrapper">
+        <div class="ajax-page-nav">
+            <div class="nav-item ajax-page-prev-next">
+                <a class="ajax-page-load" href="pages/takapaukura"><i class="lnr lnr-chevron-left"></i></a>
+                <a class="ajax-page-load" href="pages/book-shelf.html"><i class="lnr lnr-chevron-right"></i></a>
+            </div>
+            <div class="nav-item ajax-page-close-button">
+                <a id="ajax-page-close-button" href="#"><i class="lnr lnr-cross"></i></a>
+            </div>
+        </div>
+
+        <div class="ajax-page-title">
+            <h1>Sistem Informasi Manajemen Rumah Sakit</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-8 col-md-8 portfolio-block">
+                <div class="owl-carousel portfolio-page-carousel">
+                    <div class="item">
+                        <img src="/img/portfolio/simrs_dashboard.png" alt="SIMRS" />
+                    </div>
+                </div>
+
+                <script type="text/javascript">
+                  jQuery(document).ready(function($){
+                    $('.portfolio-page-carousel').imagesLoaded(function(){
+                      $('.portfolio-page-carousel').owlCarousel({
+                        smartSpeed:1200,
+                        items: 1,
+                        loop: true,
+                        dots: true,
+                        nav: true,
+                        navText: false,
+                        margin: 10,
+                        autoHeight:true
+                      });
+                    });
+                  });
+                </script>
+            </div>
+
+            <div class="col-sm-4 col-md-4 portfolio-block">
+                <!-- Project Description -->
+                <div class="project-description">
+                    <div class="block-title">
+                        <h3>Description</h3>
+                    </div>
+
+                    <p class="text-justify">
+                        Saya telah mengembangkan sebuah website Sistem Informasi Manajemen Rumah Sakit (SIMRS) menggunakan framework Laravel. Website ini dirancang untuk mempermudah pengelolaan berbagai aspek operasional rumah sakit, mulai dari pendaftaran pasien, manajemen data medis, hingga pengaturan jadwal dokter dan tenaga medis lainnya.<br><br>
+                        Dengan antarmuka yang user-friendly, sistem ini memungkinkan staf rumah sakit mengakses dan memperbarui informasi secara real-time, memastikan data pasien selalu akurat dan terkini. Selain itu, saya juga mengimplementasikan fitur-fitur seperti manajemen rekam medis elektronik, pengelolaan inventaris, dan pelaporan keuangan untuk meningkatkan efisiensi operasional rumah sakit.<br><br>
+                        Sistem ini mendukung integrasi dengan berbagai layanan pihak ketiga, seperti laboratorium dan apotek, guna menciptakan alur kerja yang lebih efisien. Dengan fokus pada keamanan data dan kemudahan penggunaan, SIMRS yang saya buat bertujuan untuk membantu rumah sakit memberikan pelayanan kesehatan yang lebih baik, lebih cepat, dan lebih responsif kepada pasien.
+
+                    </p>
+                    <!-- /Project Description -->
+
+                    <!-- Technology -->
+                    <div class="tags-block">
+                        <div class="block-title">
+                            <h3>Technology</h3>
+                        </div>
+                        <ul class="tags">
+                            <li><a>Laravel</a></li>
+                            <li><a>Tailwind</a></li>
+                            <li><a>PHP</a></li>
+                            <li><a>MySQL</a></li>
+                        </ul>
+                    </div>
+                    <!-- /Technology -->
+                </div>
+                <!-- Project Description -->
+            </div>
+        </div>
+    </div>
+</div>

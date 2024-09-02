@@ -147,11 +147,11 @@
     - website
     - wordpress
   imgSrc: /img/portfolio/takapuara.png
-  imgTitle: Takapuara
-  imgAlt: Takapuara
-  title: Takapuara
+  imgTitle: Takapaukura
+  imgAlt: Takapaukura
+  title: Takapaukura
   label: Wordpress
-  link: takapuara
+  link: takapaukura
 
 - dataGroups:
     - category_all
