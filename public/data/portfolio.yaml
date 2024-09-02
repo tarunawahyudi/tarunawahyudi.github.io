@@ -1,5 +1,15 @@
 - dataGroups:
     - category_all
+    - android
+    - multiplatform
+  imgSrc: /img/portfolio/cinema.png
+  imgTitle: The Cinema
+  imgAlt: The Cinema
+  title: The Cinema
+  label: Android
+
+- dataGroups:
+    - category_all
     - wordpress
     - website
   imgSrc: /img/portfolio/bmgcreative.png
@@ -310,3 +320,112 @@
   imgAlt: Mobile Legends Wiki
   title: Mobile Legends Wiki
   label: Android
+
+- dataGroups:
+    - category_all
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/maryland.png
+  imgTitle: Maryland Department Of Health
+  imgAlt: Maryland Department Of Health
+  title: Maryland Department Of Health
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/kevin.png
+  imgTitle: Kevin Harrington
+  imgAlt: Kevin Harrington
+  title: Kevin Harrington
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - website
+    - rest_api
+    - others
+  imgSrc: /img/portfolio/bekasi_framework.png
+  imgTitle: Bekasi Framework
+  imgAlt: Bekasi Framework
+  title: Bekasi Framework
+  label: Typescript Framework
+
+- dataGroups:
+    - category_all
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/gripstrip.png
+  imgTitle: Grip Strip
+  imgAlt: Grip Strip
+  title: Grip Strip
+  label: Wordpress
+
+- dataGroups:
+    - category_all
+    - android
+    - multiplatform
+  imgSrc: /img/portfolio/wisata_bandung.png
+  imgTitle: Wisata Bandung
+  imgAlt: Wisata Bandung
+  title: Wisata Bandung
+  label: Flutter
+
+- dataGroups:
+    - category_all
+    - website
+    - multiplatform
+  imgSrc: /img/portfolio/sales_inventory.png
+  imgTitle: Sales Inventory
+  imgAlt: Sales Inventory
+  title: Sales Inventory
+  label: Ionic
+
+- dataGroups:
+    - category_all
+    - website
+    - multiplatform
+  imgSrc: /img/portfolio/sso.png
+  imgTitle: Single Sign On
+  imgAlt: Single Sign On
+  title: Single Sign On
+  label: Vue JS
+
+- dataGroups:
+    - category_all
+    - website
+    - others
+  imgSrc: /img/portfolio/svm.png
+  imgTitle: Sentimen Anailisis Twitter
+  imgAlt: Sentimen Anailisis Twitter
+  title: Sentimen Anailisis Twitter
+  label: Machine Learning
+
+- dataGroups:
+    - category_all
+    - others
+  imgSrc: /img/portfolio/jujutsu.png
+  imgTitle: Augmented Reality Lens Studio
+  imgAlt: Augmented Reality Lens Studio
+  title: Augmented Reality Lens Studio - Jujutsu Kaisen
+  label: Augmented Reality
+
+- dataGroups:
+    - category_all
+    - website
+  imgSrc: /img/portfolio/coderesto.png
+  imgTitle: Code Resto
+  imgAlt: Code Resto
+  title: Code Resto - Web App
+  label: Web App
+
+- dataGroups:
+    - category_all
+    - website
+    - wordpress
+  imgSrc: /img/portfolio/khsharkbusiness.png
+  imgTitle: KH Shark Business
+  imgAlt: KH Shark Business
+  title: KH Shark Business
+  label: Wordpress
