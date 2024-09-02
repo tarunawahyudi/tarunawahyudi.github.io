@@ -15,14 +15,6 @@ export async function load() {
       addSectionPortfolio(item, 'portfolio');
     });
 
-    document.addEventListener('click', function(event) {
-      console.log('hello')
-      if (event.target.closest('.portfolio-item-img')) {
-        const itemId = event.target.closest('.portfolio-item-img').getAttribute('data-id');
-        addSectionDetail(itemId, 'page-ajax-loaded');
-      }
-    });
-
   } catch (error) {
     console.error('Error processing data:', error);
   }

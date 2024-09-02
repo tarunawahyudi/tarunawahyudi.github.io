@@ -7,6 +7,7 @@ function createHtml(data) {
         <figure class="item standard" data-groups='${dataGroups}'>
           <div class="portfolio-item-img">
             <img src="${data.imgSrc}" alt="${data.imgAlt}" title="${data.imgTitle}" />
+            <a href="pages/${data.link}.html" class="ajax-page-load"></a>
           </div>
 
           <i class="fa fa-file-alt"></i>

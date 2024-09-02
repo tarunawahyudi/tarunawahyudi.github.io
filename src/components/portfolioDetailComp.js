@@ -105,5 +105,6 @@ function createHtml(data) {
 export function addSection(data, selector) {
   const html = createHtml(data);
   const container = document.getElementById(selector);
-  addComponent(container, html, data);
+
+  container.insertAdjacentHTML('beforeend', html);
 }
