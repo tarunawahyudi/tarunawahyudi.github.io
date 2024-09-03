@@ -1,0 +1,78 @@
+<div id="ajax-page" class="ajax-page-content">
+    <div class="ajax-page-wrapper">
+        <div class="ajax-page-nav">
+            <div class="nav-item ajax-page-prev-next">
+                <a class="ajax-page-load" href="pages/debonairac.html"><i class="lnr lnr-chevron-left"></i></a>
+                <a class="ajax-page-load" href="pages/xvote.html"><i class="lnr lnr-chevron-right"></i></a>
+            </div>
+            <div class="nav-item ajax-page-close-button">
+                <a id="ajax-page-close-button" href="#"><i class="lnr lnr-cross"></i></a>
+            </div>
+        </div>
+
+        <div class="ajax-page-title">
+            <h1>I love florida living</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-8 col-md-8 portfolio-block">
+                <div class="owl-carousel portfolio-page-carousel">
+                    <div class="item">
+                        <img src="/img/portfolio/iloveflorida.png" alt="I love florida living" />
+                    </div>
+                </div>
+
+                <script type="text/javascript">
+                  jQuery(document).ready(function($){
+                    $('.portfolio-page-carousel').imagesLoaded(function(){
+                      $('.portfolio-page-carousel').owlCarousel({
+                        smartSpeed:1200,
+                        items: 1,
+                        loop: true,
+                        dots: true,
+                        nav: true,
+                        navText: false,
+                        margin: 10,
+                        autoHeight:true
+                      });
+                    });
+                  });
+                </script>
+            </div>
+
+            <div class="col-sm-4 col-md-4 portfolio-block">
+                <!-- Project Description -->
+                <div class="project-description">
+                    <div class="block-title">
+                        <h3>Description</h3>
+                    </div>
+                    <ul class="project-general-info">
+                        <li><p><i class="fa fa-globe"></i> <a href="https://ilovefloridaliving.com/" target="_blank">I love florida living</a></p></li>
+                    </ul>
+
+                    <p class="text-justify">
+                        I developed an intuitive website for Platinum Properties of Florida, LLC, designed to cater to both buyers and sellers in the Greater Tampa Bay Area. The platform offers valuable resources, such as the "Living at Mirada Guide," a free relocation guide, and a comprehensive "8 Questions for Home Builders Guide." With advanced and basic property search options, the website makes it easy for potential buyers to explore popular communities like Mirada, Angeline, Wesley Chapel, and more.<br><br>
+                        For sellers, the website provides tools to assess home values and schedule consultations with ease. Featuring a dedicated blog for real estate insights, seamless navigation, and easy access to contact options, the site ensures a superior user experience while highlighting the best of Florida living. Connect with Platinum Properties to explore new opportunities in the vibrant Tampa Bay market.
+                    </p>
+                    <!-- /Project Description -->
+
+                    <!-- Technology -->
+                    <div class="tags-block">
+                        <div class="block-title">
+                            <h3>Technology</h3>
+                        </div>
+                        <ul class="tags">
+                            <li><a>WordPress</a></li>
+                            <li><a>Elementor</a></li>
+                            <li><a>Yoast SEO</a></li>
+                            <li><a>Gravity Form</a></li>
+                            <li><a>Revolution Slider</a></li>
+                        </ul>
+                    </div>
+                    <!-- /Technology -->
+                </div>
+                <!-- Project Description -->
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,79 @@
+<div id="ajax-page" class="ajax-page-content">
+    <div class="ajax-page-wrapper">
+        <div class="ajax-page-nav">
+            <div class="nav-item ajax-page-prev-next">
+                <a class="ajax-page-load" href="pages/waikato.html"><i class="lnr lnr-chevron-left"></i></a>
+                <a class="ajax-page-load" href="pages/simrs.html"><i class="lnr lnr-chevron-right"></i></a>
+            </div>
+            <div class="nav-item ajax-page-close-button">
+                <a id="ajax-page-close-button" href="#"><i class="lnr lnr-cross"></i></a>
+            </div>
+        </div>
+
+        <div class="ajax-page-title">
+            <h1>Takapaukura</h1>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-8 col-md-8 portfolio-block">
+                <div class="owl-carousel portfolio-page-carousel">
+                    <div class="item">
+                        <img src="/img/portfolio/takapuara.png" alt="Takapaukura" />
+                    </div>
+                </div>
+
+                <script type="text/javascript">
+                  jQuery(document).ready(function($){
+                    $('.portfolio-page-carousel').imagesLoaded(function(){
+                      $('.portfolio-page-carousel').owlCarousel({
+                        smartSpeed:1200,
+                        items: 1,
+                        loop: true,
+                        dots: true,
+                        nav: true,
+                        navText: false,
+                        margin: 10,
+                        autoHeight:true
+                      });
+                    });
+                  });
+                </script>
+            </div>
+
+            <div class="col-sm-4 col-md-4 portfolio-block">
+                <!-- Project Description -->
+                <div class="project-description">
+                    <div class="block-title">
+                        <h3>Description</h3>
+                    </div>
+                    <ul class="project-general-info">
+                        <li><p><i class="fa fa-globe"></i> <a href="https://www.takapaukura.co.nz/" target="_blank">Takapaukura</a></p></li>
+                    </ul>
+
+                    <p class="text-justify">
+                        I created the website for Takapaukura, a Māori education consultancy, to reflect its mission of promoting lifelong learning in Māori language and culture. The site is designed to showcase their range of services, from consultation on language incorporation and organizational change to professional learning solutions and resource development.<br><br>
+                        With a clean and engaging layout, the website highlights their customized programs and workshops aimed at expanding cultural knowledge and understanding. Through testimonials, visitors can see the positive impact of Takapaukura’s passionate and effective teaching approach. The website aligns with Takapaukura’s vision to normalize the use of the Māori language, fostering cultural understanding and capability in diverse contexts.
+                    </p>
+                    <!-- /Project Description -->
+
+                    <!-- Technology -->
+                    <div class="tags-block">
+                        <div class="block-title">
+                            <h3>Technology</h3>
+                        </div>
+                        <ul class="tags">
+                            <li><a>WordPress</a></li>
+                            <li><a>Figma</a></li>
+                            <li><a>Elementor</a></li>
+                            <li><a>Yoast SEO</a></li>
+                            <li><a>Gravity Form</a></li>
+                            <li><a>Revolution Slider</a></li>
+                        </ul>
+                    </div>
+                    <!-- /Technology -->
+                </div>
+                <!-- Project Description -->
+            </div>
+        </div>
+    </div>
+</div>
