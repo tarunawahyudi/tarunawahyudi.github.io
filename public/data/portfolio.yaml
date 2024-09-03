@@ -341,7 +341,7 @@
   imgAlt: Quickbot
   title: Quickbot
   label: REST Api
-  link: quickboot
+  link: quickbot
 
 - dataGroups:
     - category_all
