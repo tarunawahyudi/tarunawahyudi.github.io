@@ -21,13 +21,13 @@ function createHtml(data) {
                 <div class="col-sm-8 col-md-8 portfolio-block">
                     <div class="owl-carousel portfolio-page-carousel">
                         <div class="item">
-                            <img src="img/portfolio/full/1.jpg" alt="" />
+                            <img src="img/portfolio/full/1.jpg" loading="lazy" alt="Portfolio Example 1" />
                         </div>
                         <div class="item">
-                            <img src="img/portfolio/full/2.jpg" alt="" />
+                            <img src="img/portfolio/full/2.jpg" loading="lazy" alt="Portfolio Example 2" />
                         </div>
                         <div class="item">
-                            <img src="img/portfolio/full/3.jpg" alt="" />
+                            <img src="img/portfolio/full/3.jpg" loading="lazy" alt=" Portfolio Example 3" />
                         </div>
                     </div>
     

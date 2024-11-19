@@ -1,5 +1,29 @@
 - dataGroups:
     - category_all
+    - website
+    - multiplatform
+    - rest_api
+  imgSrc: /img/portfolio/opencam.png
+  imgTitle: Opencam
+  imgAlt: Opencam
+  title: Opencam
+  label: Web App
+  link: opencam
+
+- dataGroups:
+    - category_all
+    - website
+    - multiplatform
+    - rest_api
+  imgSrc: /img/portfolio/secondbrain.png
+  imgTitle: Secondbrain
+  imgAlt: Secondbrain
+  title: Secondbrain
+  label: Web App
+  link: secondbrain
+
+- dataGroups:
+    - category_all
     - android
     - multiplatform
   imgSrc: /img/portfolio/cinema.png
